@@ -1,0 +1,4 @@
+Pillow==10.1.0
+tqdm==4.66.1
+google-auth-oauthlib==1.1.0
+google-api-python-client==2.108.0
