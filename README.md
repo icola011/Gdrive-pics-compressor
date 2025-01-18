@@ -21,6 +21,7 @@ pip install -r requirements.txt
    - Go to [Google Cloud Console](https://console.cloud.google.com/)
    - Create a new project
    - Enable the Google Drive API
+   - Add your Gmail to Test Users
    - Create OAuth 2.0 credentials (Desktop application)
    - Download the credentials and save as `credentials.json` in the same directory as the script
 
